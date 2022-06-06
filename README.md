@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-Polo G is the goat
-Youngboy is mid
+1: Index.html
